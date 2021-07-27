@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fakestorefront/static/css/main.71e9c943.chunk.css",
+    "main.js": "/fakestorefront/static/js/main.7d8532e8.chunk.js",
+    "main.js.map": "/fakestorefront/static/js/main.7d8532e8.chunk.js.map",
+    "runtime-main.js": "/fakestorefront/static/js/runtime-main.b223ab7b.js",
+    "runtime-main.js.map": "/fakestorefront/static/js/runtime-main.b223ab7b.js.map",
+    "static/css/2.4be38407.chunk.css": "/fakestorefront/static/css/2.4be38407.chunk.css",
+    "static/js/2.52c3f97b.chunk.js": "/fakestorefront/static/js/2.52c3f97b.chunk.js",
+    "static/js/2.52c3f97b.chunk.js.map": "/fakestorefront/static/js/2.52c3f97b.chunk.js.map",
+    "static/js/3.3874930b.chunk.js": "/fakestorefront/static/js/3.3874930b.chunk.js",
+    "static/js/3.3874930b.chunk.js.map": "/fakestorefront/static/js/3.3874930b.chunk.js.map",
+    "index.html": "/fakestorefront/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/fakestorefront/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.71e9c943.chunk.css.map": "/fakestorefront/static/css/main.71e9c943.chunk.css.map",
+    "static/js/2.52c3f97b.chunk.js.LICENSE.txt": "/fakestorefront/static/js/2.52c3f97b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b223ab7b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.52c3f97b.chunk.js",
+    "static/css/main.71e9c943.chunk.css",
+    "static/js/main.7d8532e8.chunk.js"
+  ]
+}
